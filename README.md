@@ -360,10 +360,3 @@ To continue learning Docker:
 - [Click Documentation](https://click.palletsprojects.com/)
 - [Python Docker Images](https://hub.docker.com/_/python)
 
-## License
-
-This is an educational project. Feel free to use it for learning!
-
----
-
-Built with Claude Code to learn Docker 🐳

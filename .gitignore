@@ -25,6 +25,4 @@ dist/
 build/
 target/
 *.log
-
-# Claude Code (comment out if you want to commit .claude/ config)
 .claude/
