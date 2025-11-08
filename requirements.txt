@@ -1,0 +1,5 @@
+# CLI Framework
+click==8.1.7
+
+# Syntax highlighting for beautiful JSON output
+pygments==2.17.2
